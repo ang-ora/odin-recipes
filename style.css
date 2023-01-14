@@ -10,3 +10,8 @@ h1 {
     width: 300px;
     height: auto;
 }
+
+h2 {
+    background-color: rgb(38, 5, 82);
+    color: rgb(225, 188, 240);
+}
