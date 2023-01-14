@@ -3,3 +3,10 @@ h1 {
     font-weight: bolder;
     color: rgb(49, 6, 78);
 }
+
+.panimg,
+.toastimg,
+.eggsimg {
+    width: 300px;
+    height: auto;
+}
